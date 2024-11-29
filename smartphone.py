@@ -2,9 +2,9 @@
 class smartphone:
     #    Attributes (properties)
  # def __init__(self, make, model, color):
- #         self.make = make
- #         self.model = model
- #         self.color = color
+ #          self.make = make
+ #          self.model = model
+ #          self.color = color
 
         # Method (behavior)
    def start(self):

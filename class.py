@@ -1,12 +1,23 @@
-from smartphone import smartphone
+# from smartphone import smartphone
 
 # smartphone1 = smartphone("Samsung", "Galaxy S23", "white,")
 # smartphone2 = smartphone("Techno", "Camon5", "blue")
 
 
- # Interacting with objects
-print(smartphone1.start())  # Output: The white Samsung Galaxy starts.
+# Importing the smartphone class
+from smartphone import smartphone
+
+# Creating objects (instances of the smartphone class)
+smartphone1 = smartphone("Samsung", "Galaxy S23", "white", 85)
+smartphone2 = smartphone("Techno", "Camon5", "blue", 70)
+
+# Interacting with the objects
+print(smartphone1.start())  # Output: The white Samsung Galaxy S23 starts.
+print(smartphone1.stop())   # Output: The white Samsung Galaxy S23 stops.
+
+print(smartphone2.start())  # Output: The blue Techno Camon5 starts.
 print(smartphone2.stop())   # Output: The blue Techno Camon5 stops.
+
 
  # Enhancement and addittional features
   # Creating the smartphone1 object
