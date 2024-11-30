@@ -1,8 +1,10 @@
-# Question 1
+# Question 1-----NB:Each of the question is encap with is own comment
 from smartphone import smartphone
 
 # smartphone1 = smartphone("Samsung", "Galaxy S23", "white,")
 # smartphone2 = smartphone("Techno", "Camon5", "blue")
+
+
 
 # Question 2
 # # Importing the smartphone class
@@ -42,6 +44,8 @@ from smartphone import smartphone
 #  # Override the __str__ Method
 # print(smartphone1)  
 #  # Output: White Samsung Galaxy S23
+
+
 
 
 # Question 3

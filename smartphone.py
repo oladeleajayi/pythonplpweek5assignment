@@ -1,5 +1,5 @@
    # Assignment 1: Design Your Own Class! 
-#    Question 1
+#    Question 1--------NB:Each of the question is encap with is own comment
 # class smartphone:
 #      #    Attributes (properties)
 #    def __init__(self, make, model, color):
@@ -13,6 +13,8 @@
 
 #    def stop(self):
 #         return f"The {self.color} {self.make} {self.model} stops."
+    
+    
     
            # Quesion 2
            # ENHANCEMENT AND ADDITTIONAL FEATURES
@@ -37,6 +39,8 @@
 #         return f"Calling {number} from the {self.make} {self.model}."
 
         # Override the __str__ Method
+  
+  
   
     # Question 3
 class smartphone:
